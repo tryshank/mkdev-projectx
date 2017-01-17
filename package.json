@@ -1,0 +1,19 @@
+{
+  "name": "mkdev-projectx",
+  "version": "1.0.0",
+  "description": "This is the project for MKDEV courses.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tryshank/mkdev-projectx.git"
+  },
+  "author": "PT",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tryshank/mkdev-projectx/issues"
+  },
+  "homepage": "https://github.com/tryshank/mkdev-projectx#readme"
+}
